@@ -16,5 +16,5 @@ Console.WriteLine("+=========================================================+")
 Console.WriteLine($"Espécie:.....:{Espécie}     |Raça...... {Raça}           |");
 Console.WriteLine("+=========================================================+");
 Console.WriteLine($"| Atende pela alcunha de: ....................... {Nome} |");
-Console.WriteLine($"Idade: {Idade}               Pelagem: {Pelagem}            |");
+Console.WriteLine($"Idade: {Idade}               Pelagem: {Pelagem}           |");
 Console.WriteLine("+=========================================================+");
